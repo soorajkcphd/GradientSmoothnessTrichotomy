@@ -1,0 +1,2 @@
+# GradientSmoothnessTrichotomy
+GradientSmoothnessTrichotomy
